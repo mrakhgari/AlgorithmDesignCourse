@@ -5,4 +5,7 @@ contains Two folder (homworks and worksheets)
 
 1.Homeworks folder contains solution of some question that the source book is Skiena - TheAlgorithmDesignManual. Answers is in Farsi :))
 
-2.Worksheets is workshit :))) we answer them in class
+2.Worksheets are workshit :))) we answer them in class
+
+
+we alse have some project. I put them in my page :D  
